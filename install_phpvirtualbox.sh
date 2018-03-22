@@ -1,5 +1,9 @@
 #!/bin/bash
-# more information on: https://lukascrockett.com/blog/How-to-install-phpvirtualbox-on-Debian-Stretch/
+# author: https://www.unixx.io
+# version: 22/03/2018 - v1.0 - First release
+#
+# more helpful information: https://lukascrockett.com/blog/How-to-install-phpvirtualbox-on-Debian-Stretch/
+
 
 # requirements
 docroot="/var/www/html"
